@@ -11,14 +11,6 @@
 
 ## 项目截图
 
-![登录界面](material/Screenshot_1.png)
-
-![主界面](material/Screenshot_2.png)
-
-![通讯录](material/Screenshot_3.png)
-
-![聊天界面](material/Screenshot_4.png)
-
-![工作台](material/Screenshot_5.png)
-
-![工作台](material/Screenshot_6.png)
+<img src="material/Screenshot_1.png" width="378" height="816"></img>   <img src="material/Screenshot_2.png" width="378" height="816"></img>
+<img src="material/Screenshot_3.png" width="378" height="816"></img>   <img src="material/Screenshot_4.png" width="378" height="816"></img>
+<img src="material/Screenshot_5.png" width="378" height="816"></img>   <img src="material/Screenshot_6.png" width="378" height="816"></img>
